@@ -1,0 +1,4 @@
+Nidhi's salary is 1000000
+Ajai's salary is 500000
+Amit's salary is 400000
+Ravi's salary is 350000

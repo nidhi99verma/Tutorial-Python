@@ -1,0 +1,10 @@
+Nidhi,25,nidhi@gmail.com,Female,Student,Yes
+Nidhi,25,nidhi@gmail.com,Female,Student,Yes
+Ajai,31,ajaii@gmail.com,Male,Teacher,No
+Ravi,30,ravi@gmail.com,Female,Teacher,Yes
+Amit,29,amit@gmail.com,Male,Student,No
+Ruchi,30,@gmail.com,Female,Student,Yes
+Neha,26,neha@gmail.com,Female,Teacher,Yes
+Asha,50,asha@gmail.com,Female,Student,Yes
+Om,55,om@gmail.com,Male,Teacher,Yes
+Rudra,2,@gmai.com,Male,Student,No

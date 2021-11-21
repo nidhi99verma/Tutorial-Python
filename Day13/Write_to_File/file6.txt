@@ -1,0 +1,3 @@
+hello there 
+ this is writen by echo and need to more data .....
+ add by r+ 

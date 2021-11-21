@@ -1,0 +1,10 @@
+print("Nidhi 'Verma' Ajai")
+print('Nidhim "Verma" Ajai')
+print("i\'m Nidhi")
+print("\"Verma\" is common in Nidhi and Ajai")
+print("this is backslash \\")
+print("this is \ backslash")  #this is not right way
+print("this is \\ backslash")
+print("Line A\nLine B")
+print("Nidhi\tVerma")
+print("App\bple")

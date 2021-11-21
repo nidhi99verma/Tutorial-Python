@@ -1,0 +1,10 @@
+d = dict.fromkeys(range(1,11),'Unknown')
+print(d)
+print("------------------")
+a = dict.fromkeys(['name','age'],['Unknown1','Unknown2'])
+print(a)
+print("----------------------")
+c = {'name':'Nidhi','age':'Unknown'}
+print(c['name'])
+print("---------------------")
+print(c['names'])

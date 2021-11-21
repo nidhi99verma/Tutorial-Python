@@ -1,0 +1,6 @@
+numbers = list(range(1,11))
+print(numbers)
+numbers.pop()
+print(numbers)
+pop_item = numbers.pop()
+print(pop_item)  #print(number.pop())

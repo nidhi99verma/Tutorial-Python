@@ -1,0 +1,10 @@
+name,char = input("Enter Your name and character : ").split(",")
+n1=name.lower()
+n2=char.lower()
+print(f"length of your name is :{len(name)}")
+print(f"Character count : {n1.count(n2)}")
+#(or)
+name,char = input("Enter Your name and character : ").split(",")
+print(f"length of your name is :{len(name)}")
+print(f"Character count : {name.lower().count(char.lower())}")
+
